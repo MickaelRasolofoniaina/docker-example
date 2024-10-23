@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://git-codecommit.us-east-1.amazonaws.com/v1/repos/docker-complete-guide"
   },
-  "author": "",
+  "author": "Rasolofoniaina Mickael",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
